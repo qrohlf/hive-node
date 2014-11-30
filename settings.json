@@ -5,7 +5,7 @@
     "ZMQ_TIMEOUT": 5000,
     "WAN_ENABLED": false,
     "WAN_URL": "http://hivemind.mobi/new",
-    "ARDUINO_ENABLED": true,
+    "ARDUINO_ENABLED": false,
     "ARDUINO_DEV": "/dev/ttyS0",
     "ARDUINO_BAUD": 9600,
     "ARDUINO_TIMEOUT" : 3,
